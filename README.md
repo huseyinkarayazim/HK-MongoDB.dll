@@ -54,10 +54,9 @@ then search this method (SetMongoCredentials) in this class and open a comment b
 ## Usage/Examples
 
 ```javascript
-using HK_MongoDB;
-using HK_MongoDB.Enum;
-
-namespace Example
+using HK_MongoDB.Collections;
+using System;
+namespace HK_MongoDB
 {
     static class Program
     {

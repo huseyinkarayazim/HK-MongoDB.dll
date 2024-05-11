@@ -1,7 +1,5 @@
 ﻿using HK_MongoDB.Collections;
 using System;
-
-
 namespace HK_MongoDB
 {
     internal class Program
